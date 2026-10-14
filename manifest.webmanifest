@@ -1,6 +1,6 @@
 {
-  "name": "Τρίλιζα Ευρωλίγκας",
-  "short_name": "Τρίλιζα",
+  "name": "Tic Tac Hoop",
+  "short_name": "Tic Tac Hoop",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",
